@@ -3,6 +3,6 @@
   
  [link](https://abnerdsn.github.io/landing-page/)
  
-![moça](https://user-images.githubusercontent.com/86674139/208134324-1903aac6-27f1-423e-831a-9cb8ad24387c.png)
+![moça](https://user-images.githubusercontent.com/86674139/208135557-5c99eefd-e88e-4276-96ef-64a6f04b5f05.png)
 
-![moça2](https://user-images.githubusercontent.com/86674139/208134783-9759921e-d73e-4a5a-9ef8-677e778e1204.png)
+![moça2](https://user-images.githubusercontent.com/86674139/208135847-7bcce359-6974-4d10-a224-96d4b47ec469.png)

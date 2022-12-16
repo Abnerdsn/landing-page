@@ -1,3 +1,2 @@
 # Landing Page
- Minha Primeira Landing Page usando HTML e CSS.
- [link](https://abnerdsn.github.io/landing-page/)
+ [Minha Primeira Landing Page usando HTML e CSS.](https://abnerdsn.github.io/landing-page/)

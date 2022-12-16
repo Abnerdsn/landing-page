@@ -1,2 +1,3 @@
 # Landing Page
- [Minha Primeira Landing Page usando HTML e CSS.](https://abnerdsn.github.io/landing-page/)
+  Minha Primeira Landing Page usando HTML e CSS aplicando Flexbox e formulários.
+ [link>](https://abnerdsn.github.io/landing-page/)
